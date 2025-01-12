@@ -15,7 +15,7 @@ html {
 body {
     position: relative;
     height: 100vh;
-    background: linear-gradient(to bottom right, #50a3a2 0, #78cc6d 100%);
+    background: linear-gradient(to bottom right, #ff0000 0, #850000 100%);
 }
 
 .bubble-container {
