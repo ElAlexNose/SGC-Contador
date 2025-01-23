@@ -222,3 +222,15 @@ body {
     font-size: 1.6rem;
     border-top: .1rem solid #ffffff;
 }
+
+d1 {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 24px;
+  font-weight: bold; 
+  color: white; 
+  white-space: nowrap; 
+}
+
